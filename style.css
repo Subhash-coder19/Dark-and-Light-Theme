@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  margin-top: auto;
+  background-color: black;
+  color: aliceblue;
+}
+
+h1 {
+  text-align: auto;
+}
+
+button {
+  margin-left: auto;
+  margin-top: auto;
+  height: 40px;
+  background: rgb(184, 212, 212);
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  transition: 0.5 ease-in-out;
+}
+
+button:hover {
+  background-color: rgb(255, 145, 0);
+}
+
+.light-mode {
+  background: white;
+  color: black;
+}
